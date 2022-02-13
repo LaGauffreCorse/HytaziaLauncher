@@ -8,20 +8,20 @@ The distribution index is written in JSON. The general format of the index is as
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "12334567890123456789",
+        "clientId": "906485845433917470",
         "smallImageText": "WesterosCraft",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "id": "Hytazia Network",
+            "name": "Hytazia",
+            "description": "&b&lHyt&f&la&3&lzia &8[1.9+] &a☠ &a&lPIRATE WORLD &a☠ &c&l☯ Boat Battle &f& &c&lArt Battle ☯",
+            "icon": "https://www.zupimages.net/up/22/06/4ky7.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
-            "minecraftVersion": "1.11.2",
+            "address": "6.tcp.eu.ngrok.io:11189",
+            "minecraftVersion": "1.9.4",
             "discord": {
                 "shortId": "Example",
                 "largeImageText": "WesterosCraft Example Server",

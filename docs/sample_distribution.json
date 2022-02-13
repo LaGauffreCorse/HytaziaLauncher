@@ -11,13 +11,13 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "Hytazia Network",
+            "name": "Hytazia",
+            "description": "&b&lHyt&f&la&3&lzia &8[1.9+] &a☠ &a&lPIRATE WORLD &a☠ &c&l☯ Boat Battle &f& &c&lArt Battle ☯",
+            "icon": "https://www.zupimages.net/up/22/06/4ky7.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "6.tcp.eu.ngrok.io:11189",
+            "minecraftVersion": "1.9.4",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "WesterosCraft Production Server",
